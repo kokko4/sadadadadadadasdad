@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["KZSQ.RU","KZSQ.KZ"];
+const statusMessages = ["Nemesis - №1 cheat","Nemesis - the best"];
 
 
 let currentIndex = 0;
